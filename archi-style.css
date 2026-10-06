@@ -1,0 +1,110 @@
+﻿body {
+    background-color: antiquewhite;
+}
+
+#body-div {
+    width: 1880px;
+    color: rgb(27, 83, 13);
+    /*width: 1700px;
+    margin-left: auto;
+    margin-right: auto;*/
+}
+
+
+#header {
+    background-color: rgb(255, 141, 0, 0,55);
+    backdrop-filter: blur(5px);
+    padding: 3px;
+    position: sticky;
+    width: 1880px;
+    top: 1px;
+    font-family: Stencil;
+    color: chocolate;
+    border: 3px solid chocolate;
+    border-radius: 10px;
+}
+
+#content {
+    width: 1500px;
+}
+
+#body {
+    
+}
+.a_button {
+    float: right;
+    margin: 20px 2px;
+    margin-right: 3px;
+    background-color: slategrey;
+    border: hidden;
+    font-weight: bold;
+    cursor: pointer;
+    height: 25px;
+}
+
+#text1 {
+    
+    width: 1500px;
+    padding: 3px;
+    margin: 2px;
+}
+
+    /*
+    #bild {
+    background-color: bisque;
+} 
+    */
+
+#archimedes_bild {
+    width: 400px;
+    height: auto;
+    margin-left: 200px;
+}
+
+#wissenswertes {
+   
+}
+
+#quellen {
+    border: 1px solid black;
+    background-color: khaki;
+    padding-left: 3px;
+}
+
+/*#footer {
+    background-color: dimgrey;
+    margin: 2px;
+    padding: 1px;
+    position: sticky;
+    bottom: 1px;
+    width: 1900px;
+}*/
+
+#footer {
+    background-color: rgb(209, 136, 248, 0,44);
+    backdrop-filter: blur(5px);
+    position: sticky;
+    bottom: 1px;
+    margin: 2px;
+    padding: 1px;
+    width: 1880px;
+    border-radius: 10px;
+    border: 2px solid chocolate;
+
+
+    font-family: Stencil;
+    color: chocolate;
+}
+
+
+.footer-button {
+    float: right;
+    background-color: slategrey;
+    margin-top: 15px;
+    margin-right: 10px;
+    border: hidden;
+    font-weight: bold;
+    cursor: pointer;
+    height: 25px;
+}
+
